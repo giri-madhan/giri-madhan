@@ -1,7 +1,7 @@
 
 # Hi, I'm Giri! 👋
 
-I'm a frontend developer with more than 4 years of experience, and I'm currently focused on ReactJS and TypeScript. I'm working as a Frontend Engineer at a banking company and enjoying the opportunity to contribute to exciting open source projects.
+I'm a Software Engineer with more than 4 years of experience, and I'm currently focused on ReactJS and TypeScript. I'm working as a Frontend Engineer at a banking company and enjoying the opportunity to contribute to exciting open source projects.
 
 ## 🔗 Find me here!
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malleablelife)
