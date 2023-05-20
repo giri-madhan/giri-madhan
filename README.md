@@ -1,5 +1,5 @@
 
-# Hi, I'm Giri! 👋
+# Hi, I'm Giri!
 
 I'm a skilled software engineer with over four years of experience, specializing in ReactJS and TypeScript. I love contributing to open-source projects and strive to make valuable contributions.
 
