@@ -1,7 +1,7 @@
 
 # Hi, I'm Giri!
 
-I'm a skilled software engineer with over four years of experience, specializing in ReactJS and TypeScript. I love contributing to open-source projects and strive to make valuable contributions.
+I'm a skilled software engineer with over five years of experience, specializing in ReactJS and TypeScript. I love contributing to open-source projects and strive to make valuable contributions.
 
 ## 🔗 Find me here!
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malleablelife)
